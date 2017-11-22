@@ -1,5 +1,9 @@
 package com.socket;
 
+/**
+ * @author bin
+ *
+ */
 public class Message {
     private String id;
     private String msg;
